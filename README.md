@@ -9,4 +9,4 @@ fmt, init, validate, plan and apply
 # Provider
 The provider here is aws provider
 # Region
-This Vpc is created in us-west-2 
+This Vpc is created in region us-west-2 

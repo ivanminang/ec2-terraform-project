@@ -10,7 +10,7 @@ terraform {
 }
 # Configure the aws Provider
 provider "aws" {
-  region     = "us-west-2"
+  region = "us-west-2"
 }
 # create an ec2
 resource "aws_instance" "my-ec2" {
